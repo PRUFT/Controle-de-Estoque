@@ -59,6 +59,9 @@ pip install streamlit pandas
 3. Execute o App
 python - m streamlit run app.py
 
+4. Login
+Usuário:admin
+Senha:123456
 
 O navegador abrirá automaticamente a interface.
 
