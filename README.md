@@ -48,7 +48,7 @@ Controle-de-Estoque/
 ▶️ Como executar o projeto
 1. Execute o terminal na pasta base
 
-Clique com o botão direito em um espaço vazio na pasta do Controle de Estoque e clique em executar no cmd 
+Clique com o botão direito em um espaço vazio na pasta do Controle de Estoque e clique em executar com terminal
 
 2. Instale as dependências
 
