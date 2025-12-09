@@ -46,14 +46,18 @@ Controle-de-Estoque/
 └── README.md
 
 ▶️ Como executar o projeto
-1. Instale as dependências
+1. Execute o terminal na pasta base
+
+Clique com o botão direito em um espaço vazio na pasta do Controle de Estoque e clique em executar no cmd 
+
+2. Instale as dependências
 
 No terminal:
 
 pip install streamlit pandas
 
-2. Execute o sistema
-streamlit run app.py
+3. Execute o App
+python - m streamlit run app.py
 
 
 O navegador abrirá automaticamente a interface.
